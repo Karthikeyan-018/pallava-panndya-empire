@@ -1,0 +1,20 @@
+body {
+background-color: #03011f;
+font-family: "Source Sans Pro";
+color: #6cacc5;
+}
+.text-1{
+
+color: #F70D1A;
+position: absolute; right:560px; top:100px;
+font-size: 70px;
+font-family: "Source Sans Pro";
+
+}
+.Arikesari{
+  padding-top: 180px;
+  font-size: 20px;
+}
+.image-1{
+  padding-top: 20px;
+}
